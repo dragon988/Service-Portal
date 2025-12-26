@@ -290,6 +290,12 @@ h1, h2, h3, h4, h5, h6, p{
     margin-bottom: 4rem;
 }
 
+.new-href{
+    display: block;
+    color: #fff;
+    padding: 2rem;
+}
+
 @media only screen and (max-width: 789px) {
     html,body { overflow-x: hidden; }
     .portal-Bike-Angel, .portal-Bike-Service-Portal{ padding-top: 50px; }
@@ -323,3 +329,4 @@ h1, h2, h3, h4, h5, h6, p{
     .portal-href .href-item p{ font-size: 16px; }
     .portal-href .href-item a{ font-size: 14px; }
 }
+
